@@ -1,2 +1,6 @@
 i am 123 456 789
+<<<<<<< HEAD
 Hello Vicky
+=======
+Hello Yaron
+>>>>>>> c393e133e9b903373431001ac152c9ccf79afa69
